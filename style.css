@@ -1,0 +1,25 @@
+.baslık {
+  display: flex;
+  justify-content: center;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 300px;
+  width: auto;
+}
+.lead {
+  display: inline;
+}
+
+body {
+  background-color: #e9ecef !important;
+}
